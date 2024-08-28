@@ -5,7 +5,7 @@ steam好友码:1211982686
 KOOK:83620407
 ```
 
-<img src="bilbil.jpg" alt="B站" height="400px"><img src="douyin.jpg" alt="B站" height="400px"><img src="kuaishou.jpg" alt="B站" height="400px">
+<img src="img/bilbil.jpg" alt="B站" height="400px"><img src="img/douyin.jpg" alt="B站" height="400px"><img src="img/kuaishou.jpg" alt="B站" height="400px">
 
 ---
 
