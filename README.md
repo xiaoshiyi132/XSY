@@ -5,14 +5,4 @@ steam好友码:1211982686
 KOOK:83620407
 ```
 
-![B站](/bilbil.jpg "B站")
-
-![抖音](/douyin.jpg "抖音")
-
-![快手](/kuaishou.jpg "快手")
-
-<img src="/bilbil.jpg style="zoom:25%;" />
-
-<img src="/douyin.jpg" style="zoom:25%;" />
-
-<img src="/kuaishou.jpg" style="zoom:25%;" />
+<img src="bilbil.jpg" alt="B站" height="350px"><img src="douyin.jpg" alt="B站" height="350px"><img src="kuaishou.jpg" alt="B站" height="350px">
