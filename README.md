@@ -5,8 +5,8 @@ steam好友码:1211982686
 KOOK:83620407
 ```
 
-[![B站](https://github.com/xiaoshiyi132/xsy/blob/main/bilbil.jpg "B站")](https://space.bilibili.com/3546714659097233)
+![B站](/bilbil.jpg "B站")
 
-[![抖音]()]()
+![抖音](/douyin.jpg "抖音")
 
-[![bilbil]()]()
+![快手](/kuaishou.jpg "快手")
