@@ -10,3 +10,9 @@ KOOK:83620407
 ![抖音](/douyin.jpg "抖音")
 
 ![快手](/kuaishou.jpg "快手")
+
+<img src="/bilbil.jpg style="zoom:25%;" />
+
+<img src="/douyin.jpg" style="zoom:25%;" />
+
+<img src="/kuaishou.jpg" style="zoom:25%;" />
